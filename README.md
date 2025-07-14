@@ -2,6 +2,9 @@
 
 This website provides comprehensive information about marketing team costs, including salaries, overhead, tools, and total investment needed for effective marketing operations.
 
+## Live Website
+**URL**: https://marketing-team-cost-no-schema.vercel.app/
+
 ## Features
 
 - Complete breakdown of marketing team costs
